@@ -1,0 +1,44 @@
+[
+  {
+    "placeImage": "images/food4.jpg",
+    "placeName": "The Hawkers",
+    "placeItems": ["Burgers","pizza","maggi","Burgers","pizza","maggi"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/food1.jpg",
+    "placeName": "Flipping Noodles",
+    "placeItems": ["Burgers","pizza","maggi","Burgers","pizza","maggi"],
+    "minOrder": 50
+  },
+  {
+    "placeImage": "images/food2.jpg",
+    "placeName": "Pizza Hut",
+    "placeItems": ["Burgers","pizza","maggi","Burgers","pizza","maggi"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/food3.jpg",
+    "placeName": "Blue Hill",
+    "placeItems": ["Burgers","pizza","maggi","Burgers","pizza","maggi"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/food4.jpg",
+    "placeName": "The Hawkers",
+    "placeItems": ["Burgers","pizza","maggi","Burgers","pizza","maggi"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/food1.jpg",
+    "placeName": "Flipping Noodles",
+    "placeItems": ["Burgers","pizza","maggi","Burgers","pizza","maggi"],
+    "minOrder": 50
+  },
+  {
+    "placeImage": "images/food2.jpg",
+    "placeName": "Pizza Hut",
+    "placeItems": ["Burgers","pizza","maggi","Burgers","pizza","maggi"],
+    "minOrder": 20
+  }
+]
